@@ -1,0 +1,11 @@
+git
+gitlab-plugin
+ssh-agent
+credentials-binding
+aws-credentials
+maven-plugin
+config-file-provider
+docker-plugin
+docker-java-api
+artifactory
+docker-workflow
