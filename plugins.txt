@@ -9,3 +9,4 @@ docker-plugin
 docker-java-api
 artifactory
 docker-workflow
+terraform
